@@ -1,0 +1,20 @@
+[
+    {
+        "courseId": "4654431d-e8cf-4bc6-9d40-3a900ecc7715",
+        "title": "React med Redux",
+        "courseNumber": 2322,
+        "duration": 5,
+        "startDate": "2023-03-06",
+        "endDate": "2023-04-10",
+        "teacherId": "4bcd777a-5e9b-4679-be27-dc65b1bfcc4d"
+    },
+    {
+        "courseId": "f872d050-4d12-4440-b1c5-d6e6b8f35ad7",
+        "title": "Angular",
+        "courseNumber": 2342,
+        "duration": 5,
+        "startDate": "2023-03-06",
+        "endDate": "2023-04-10",
+        "teacherId": "458d7a76-b020-4fef-91b8-9a38705f7261"
+    }
+]

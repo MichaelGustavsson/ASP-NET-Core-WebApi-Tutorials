@@ -1,0 +1,24 @@
+[
+    {
+        "id":"4bcd777a-5e9b-4679-be27-dc65b1bfcc4d",
+        "birthOfDate":"1958-01-01",
+        "firstName":"Ulf",
+        "lastName":"Bilting",
+        "email":"ulf@gmail.com",
+        "phone":"070-123456",
+        "address":"Gatan 1",
+        "postalCode":"123 45",
+        "city":"Staden"
+    },
+    {
+        "id":"458d7a76-b020-4fef-91b8-9a38705f7261",
+        "birthOfDate":"1964-01-01",
+        "firstName":"Michael",
+        "lastName":"Gustavsson",
+        "email":"michael@gmail.com",
+        "phone":"070-7890123",
+        "address":"Gatan 10",
+        "postalCode":"123 45",
+        "city":"Staden"
+    }
+]

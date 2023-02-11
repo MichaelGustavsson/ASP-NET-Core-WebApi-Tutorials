@@ -1,0 +1,16 @@
+[
+    {
+        "courseId": "4654431d-e8cf-4bc6-9d40-3a900ecc7715",
+        "studentId": "cf191ee7-b6b0-4983-9980-75510df15499",
+        "status": 0
+    },
+    {
+        "courseId": "4654431d-e8cf-4bc6-9d40-3a900ecc7715",
+        "studentId": "ba5d8b41-a789-4ecb-acd3-6aaf6fe85ccf",
+        "status": 1
+    },{
+        "courseId": "f872d050-4d12-4440-b1c5-d6e6b8f35ad7",
+        "studentId": "9da80ce0-81c4-4d6c-adbf-a60c359de513",
+        "status": 2
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":"cf191ee7-b6b0-4983-9980-75510df15499",
+        "birthOfDate":"1990-01-01",
+        "firstName":"Johan",
+        "lastName":"Olsson",
+        "email":"johan@gmail.com",
+        "phone":"070-123456",
+        "address":"Gatan 2",
+        "postalCode":"123 45",
+        "city":"Staden",
+        "courseId":"4654431d-e8cf-4bc6-9d40-3a900ecc7715"
+    },
+    {
+        "id":"ba5d8b41-a789-4ecb-acd3-6aaf6fe85ccf",
+        "birthOfDate":"1992-01-01",
+        "firstName":"Anna",
+        "lastName":"Eriksson",
+        "email":"anna@gmail.com",
+        "phone":"070-789898",
+        "address":"Gatan 20",
+        "postalCode":"123 45",
+        "city":"Storstaden",
+        "courseId":"4654431d-e8cf-4bc6-9d40-3a900ecc7715"
+    },
+    {
+        "id":"9da80ce0-81c4-4d6c-adbf-a60c359de513",
+        "birthOfDate":"1996-01-01",
+        "firstName":"Lena",
+        "lastName":"Andersson",
+        "email":"lena@gmail.com",
+        "phone":"070-3322112",
+        "address":"Gatan 20",
+        "postalCode":"123 45",
+        "city":"Storstaden",
+        "courseId":"f872d050-4d12-4440-b1c5-d6e6b8f35ad7"
+    }
+]
