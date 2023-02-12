@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/Kia-Ceed.jpg",
+      "PackagePath": "staticwebassets/images/Kia-Ceed.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car1.jpg",
+      "PackagePath": "staticwebassets/images/car1.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car10.jpg",
+      "PackagePath": "staticwebassets/images/car10.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car11.jpg",
+      "PackagePath": "staticwebassets/images/car11.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car12.jpg",
+      "PackagePath": "staticwebassets/images/car12.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car13.jpg",
+      "PackagePath": "staticwebassets/images/car13.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car14.jpg",
+      "PackagePath": "staticwebassets/images/car14.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car15.jpg",
+      "PackagePath": "staticwebassets/images/car15.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car16.jpg",
+      "PackagePath": "staticwebassets/images/car16.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car2.jpg",
+      "PackagePath": "staticwebassets/images/car2.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car3.jpg",
+      "PackagePath": "staticwebassets/images/car3.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car4.jpg",
+      "PackagePath": "staticwebassets/images/car4.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car5.jpg",
+      "PackagePath": "staticwebassets/images/car5.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car6.jpg",
+      "PackagePath": "staticwebassets/images/car6.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car7.jpg",
+      "PackagePath": "staticwebassets/images/car7.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car8.jpg",
+      "PackagePath": "staticwebassets/images/car8.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/car9.jpg",
+      "PackagePath": "staticwebassets/images/car9.jpg"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/no-car.png",
+      "PackagePath": "staticwebassets/images/no-car.png"
+    },
+    {
+      "Id": "/Users/michaelgustavsson/Documents/Development/Courses/SoftTech/REST API/Recordings/Code/working-code/12-Consuming-REST-API/working-code/api/wwwroot/images/volvo-XC90.jpg",
+      "PackagePath": "staticwebassets/images/volvo-XC90.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.westcoast-cars.api.props",
+      "PackagePath": "build\\westcoast-cars.api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.westcoast-cars.api.props",
+      "PackagePath": "buildMultiTargeting\\westcoast-cars.api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.westcoast-cars.api.props",
+      "PackagePath": "buildTransitive\\westcoast-cars.api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.westcoast-cars.api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

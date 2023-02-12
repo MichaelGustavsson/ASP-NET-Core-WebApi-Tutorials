@@ -1,0 +1,21 @@
+@model IEnumerable<westcoast_cars.web.ViewModels.VehiclesListViewModel>
+@{
+    ViewBag.PageTitle = "Våra bilar";
+}
+
+<article class="page">
+    <h1 class="page-title">Våra bilar i lager</h1>
+
+    <section class="gallery-wrapper">
+        @foreach (var vehicle in Model)
+        {
+            <div class="gallery-card">
+                <div>@vehicle.Manufacturer</div>
+                <img src="@vehicle.ImageUrl" alt="@vehicle.Model">
+                <div><span>@vehicle.Model</span>&nbsp;<span>@vehicle.ModelYear</span></div>
+                <a class="btn btn-dark" asp-action="details" asp-route-vehicleId="@vehicle.Id">Se mer</a>
+            </div>
+        }
+    </section>
+
+</article>
